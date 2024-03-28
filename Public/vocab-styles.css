@@ -1,0 +1,33 @@
+#red {
+    color: red;
+}
+
+#blue {
+    color: blue;
+}
+
+#orange {
+    color: orange;
+}
+
+#green {
+    color: green;
+}
+
+#yellow {
+    color: yellow;
+}
+
+
+.color.title {
+    font-family: "Protest Revolution", sans-serif;
+    font-weight: 400;
+    font-style: normal;   
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
+
+
